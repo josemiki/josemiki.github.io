@@ -8,7 +8,7 @@ middle_name: M. H.
 last_name: Cruz
 email: jmhuamanc@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Innovative and detail-oriented Data Scientist and Machine Learning Engineer with a strong foundation in computer vision, advanced analytics, and large-scale data processing. Holding an M.Sc. in Computer Science, I bring over four years of experience delivering AI-driven solutions across retail and security industries. I excel in implementing machine learning models and orchestrating end-to-end solutions using modern cloud platforms like GCP, with proven expertise in tools such as TensorFlow, PyTorch, and BigQuery. My work has ranged from developing intelligent search systems using Large Language Models to creating real-time object detection and tracking applications for security systems. Recognized as a Data \& BI Hero for outstanding performance, I am committed to leveraging cutting-edge technology to solve complex problems and drive business impact.
+  Template based on other github.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
